@@ -20,4 +20,4 @@ Challenge: Create a program that checks if a user is eligible for a tea subscrip
 
 5: Bitwise Operators
 
-Online resources
+Online resources: https://bitwisecmd.com/
