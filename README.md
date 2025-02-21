@@ -102,15 +102,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 ⭐ **Star this repo** if you find it useful!  
-💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourhandle)
+💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/asimali7/)
 
 _Happy Coding! 🎉_
-```
-
-This README features:
-1. Clear visual hierarchy with emojis and badges
-2. Logical progression from setup to advanced topics
-3. Multiple learning resource references
-4. Project suggestions for practical application
-5. Contribution guidelines for community involvement
-6. Mobile-friendly formatting
